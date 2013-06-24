@@ -1,89 +1,52 @@
 /* preferences */
-"BASIC" = "BASIC";
-"SYSTEM" = "SYSTEM";
+"BASIC" = "OSNOVNO";
+"SYSTEM" = "SISTEM";
 "Menus" = "Izbornici";
-"Updates" = "A\u017euriranja";
-"File Browser" = "Preglednik datoteka";
+"Updates" = "Ažuriranja";
+"File Browser" = "Prikaz datoteka";
 "Screen" = "Zaslon";
 "Dock" = "Dock";
 
 /* TotalFinder Status Menu Item */
-"Check for Updates" = "Provjera a\U017euriranja";
-"Uninstall TotalFinder" = "Deinstalacija TotalFinder-a";
+"Check for Updates" = "Provjeri ažuriranja";
+"Uninstall TotalFinder" = "Deinstaliraj TotalFinder";
 "Restart Finder" = "Ponovno pokreni Finder";
 
 /* Reset to Defaults Alert Box */
-"Reset" = "Poni\U0161ti";
+"Reset" = "Reset";
 "Cancel" = "Prekid";
-"Do you really want reset to defaults?" = "\U017delite li zaista vratiti na po\U010detno?";
-"This will restore initial TotalFinder settings." = "Ovo \U0107e vratiti TotalFinder na po\U010detne postavke.";
+"Do you really want reset to defaults?" = "Želite li zaista vratiti na početno?";
+"This will restore initial TotalFinder settings." = "Ovo će vratiti TotalFinder na početne postavke.";
 
 /* Unistall Alert Box */
 "Uninstall" = "Deinstaliraj";
-"Really want to uninstall TotalFinder?" = "\U017delite li zaista deinstalirati TotalFinder?";
-"This will launch an uninstall script which will remove TotalFinder from this computer and restore your original Finder behavior." = "Ovo \U0107e pokrenuti skriptu deinstalacije koja \U0107e ukloniti TotalFinder s ovog ra\U010dunala i vratiti izvorno pona\U0161anje Findera.";
+"Really want to uninstall TotalFinder?" = "Želite li zaista deinstalirati TotalFinder?";
+"This will launch an uninstall script which will remove TotalFinder from this computer and restore your original Finder behavior." = "Ovo će pokrenuti skriptu deinstalacije koja će ukloniti TotalFinder s ovog računala i vratiti izvorno ponašanje Findera.";
 
 /* MainMenu items */
 "TotalFinder" = "TotalFinder";
 "TotalFinder Preferences…" = "TotalFinder postavke…";
-"Visit Homepage…" = "Posjetite stranicu...…";
-
-/* misc. */
-"Screen" = "Zaslon";
+"Visit Homepage…" = "Posjeti stranicu...";
 
 /* registration */
 "Licensed to %@" = "Licencirano na %@";
 "Change License" = "Promijeni licencu";
-"Unregistered version in trial mode" = "Neregistrirana verzija u trial m\U00f4du";
-"Register" = "Registracija";
+"Unregistered version in trial mode" = "Neregistrirana verzija u trial môdu";
+"Register" = "Registriraj";
 
 /* navigation bar */
-"Visor" = "Vizir";
-"Tweaks" = "Tweakovi";
 "About" = "O aplikaciji";
-
-/* visor page */
-"Visor Feature" = "Zna\U010dajke Visor-a";
-"a system-wide window sliding from the bottom on a hot-key" = "glavni prozor izlaze\U0107i odozdo na tipkovni\U010dki pre\U010dac";
-
-"Activation:" = "Aktivacija:";
-
-"Control:" = "Kontrola:";
-"Hide on ESC" = "Sakrij sa ESC";
-"Pin Visor" = "Zaka\U010di Vizir";
-
-"Animation:" = "Animacija:";
-"Fade Window" = "Prozirnost prozora";
-"Slide Window" = "Pomicanje prozora";
-
-"Screen:" = "Zaslon:";
-"Show on all Spaces" = "Prikaz na svim povr\U0161inama";
-"Show on top of the Dock" = "Prikaz na vrhu Docka";
-"Free Form Window" = "Plutaju\u0107i prozor";
 
 /* tweaks page */
 "Reset TotalFinder to defaults" = "Vrati TotalFinder na izvorne postavke";
 
-"File Browser:" = "Preglednik datoteka:";
-"Show System Files" = "Datoteke sustava";
-"Folders on Top" = "Mape na vrhu";
-"Always Maximize" = "Uvijek uve\U0107ano";
-"Toggle Dual Mode" = "Prebaci Dual m\U00f4d";
-
-"Menu and Dock:" = "Izbornik i Dock:";
 "Hide icon in Menu Bar" = "Sakrij ikonu u traci";
-"Keep original Dock icon" = "Zadr\U017ei izvornu ikonu u docku";
-
-"Experimental:" = "Eksperimentalno:";
-"Freelance Windows" = "Plutaju\u0107i prozori";
-"Use narrow Tabs Bar" = "Koristi usku traku kartica";
-"Show CutPaste buttons in Context Menus" = "Prika\u017ei tipke Izre\U017ei/Zalijepi u kontekstnom izborniku";
-"Allow path copying from Context Menus" = "Dozvoli kopiranje putanje iz kontekstnog izbornika";
+"Keep original Dock icon" = "Zadrži izvornu ikonu u Docku";
 
 /* about page */
-"Check Now" = "Provjeri sada";
-"Automatically check the website for updates" = "Automatska provjera stranice a\U017euriranja";
-"Include pre-releases" = "Uklju\U010di pred-izdanja";
+"Check Now" = "Check Now";
+"Automatically check the website for updates" = "Automatska provjera stranice ažuriranja";
+"Include pre-releases" = "Uključi pred-izdanja";
 "Participate in TotalFinder testing" = "Sudjeluj u testiranju TotalFinder-a";
 
 /* registration */
@@ -95,12 +58,9 @@
 "This TotalFinder copy is licensed to:" = "Ova kopija TotalFinder-a je licencirana na:";
 "Close" = "Zatvori";
 "Back" = "Natrag";
-"Invalid license code" = "Neva\U017ee\U0107i k\U00f4d licence";
-"Please go back and try again." = "Molimo idite natrag i poku\U0161ajte ponovno.";
+"Invalid license code" = "Nevažeći kôd licence";
+"Please go back and try again." = "Molimo idite natrag i pokušajte ponovno.";
 "To purchase a license for TotalFinder, please visit BinaryAge web store." = "Za kupnju licence TotalFindera molimo posjetite BinaryAge web-trgovinu.";
-"Thank you for using TotalFinder!" = "Zahvaljujemo na upotrebi TotalFinder-a!";
+"Thank you for using TotalFinder!" = "Zahvaljujemo na upotrebi!";
 "License Name" = "Ime licence";
-"License Key" = "Klju\u010d licence";
-
-/* shared strings between plugins */
-"Menus" = "Izbornici";
+"License Key" = "Ključ licence";

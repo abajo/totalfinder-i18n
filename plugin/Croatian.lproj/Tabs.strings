@@ -1,25 +1,29 @@
 "TotalFinder - unregistered version" = "TotalFinder - neregistrirana verzija";
-"TotalFinder - 1 day left - buy now!" = "TotalFinder - 1 dan preostao - kupite sada!";
-"TotalFinder - 2 days left - buy now!" = "TotalFinder - 2 dana preostala - kupite sada!";
-"TotalFinder - 3 days left - buy now!" = "TotalFinder - 3 dana preostala - kupite sada!";
-"TotalFinder - 4 days left - buy now!" = "TotalFinder - 4 dana preostala - kupite sada!";
-"TotalFinder - 5 days left - buy now!" = "TotalFinder - 5 dana preostala - kupite sada!";
-"TotalFinder - %d days left - buy now!" = "TotalFinder - %d dana preostalo - kupite sada!";
+"TotalFinder - 1 day left - buy now!" = "TotalFinder - 1 dan preostao - kupi sada!";
+"TotalFinder - 2 days left - buy now!" = "TotalFinder - 2 dana preostalo - kupi sada!";
+"TotalFinder - 3 days left - buy now!" = "TotalFinder - 3 dana preostalo - kupi sada!";
+"TotalFinder - 4 days left - buy now!" = "TotalFinder - 4 dana preostalo - kupi sada!";
+"TotalFinder - 5 days left - buy now!" = "TotalFinder - 5 dana preostalo - kupi sada!";
+"TotalFinder - %d days left - buy now!" = "TotalFinder - %d dana preostalo - kupi sada!";
 "Close Tab" = "Zatvori karticu";
-"New Finder Tab" = "Nova Finder kartica";
-"Reopen Closed Tab" = "Ponovno otvori zatvorenu karticu";
+"Reopen Closed Tab" = "Ponovo otvori karticu";
 "Close Window" = "Zatvori prozor";
-"Toggle Dual Mode" = "Uključi/isključi Dual Mode";
-"Narrow Tabs Bar" = "Uske kartice";
-"Select Next Tab" = "Odaberi slijedeću karticu";
+"Toggle Dual Mode" = "Prebaci Dual m\U00f4d";
+"Narrow Tabs Bar" = "Uska traka kartica";
+"Select Next Tab" = "Odaberi sljede\U0107u karticu";
 "Select Previous Tab" = "Odaberi prethodnu karticu";
-"Switch Active Panel" = "Promijeni aktivnu ploču";
+"Switch Active Panel" = "Prebaci aktivni panel";
+"Close Native Tab" = "Zatvori izvornu karticu";
+"New Native Tab" = "Nova kartica izvorna kartica";
+"Show Next Native Tab" = "Prika\U017ei sljede\U0107u izvornu karticu";
+"Show Previous Native Tab" = "Prika\U017ei prethodnu izvornu karticu";
 
 "New Tab" = "Nova kartica";
-"Tabs" = "Tabs";
-"Use narrow Tabs Bar" = "Koristi uske kartice";
-"Open new tabs with previous location" = "Open new tabs with previous location";
+"Tabs" = "Kartice";
+"Use narrow Tabs Bar" = "Koristi usku traku kartica";
+"Open new tabs with previous location" = "Otvaraj nove kartice prethodnih lokacija";
 
 /* preferences */
-"Always Maximize" = "Uvijek uvećaj prozor";
-"Freelance Windows" = "Freelance Prozori";
+"Always Maximize" = "Uvijek uve\U0107ano";
+"Freelance Windows" = "Plutaju\U0107i prozori";
+

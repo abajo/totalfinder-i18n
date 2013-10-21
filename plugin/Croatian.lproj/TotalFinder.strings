@@ -2,36 +2,36 @@
 "BASIC" = "OSNOVNO";
 "SYSTEM" = "SISTEM";
 "Menus" = "Izbornici";
-"Updates" = "Ažuriranja";
+"Updates" = "A\U017euriranja";
 "File Browser" = "Prikaz datoteka";
-"Screen" = "Zaslon";
 "Dock" = "Dock";
+"Sidebar" = "Bo\U010dna traka";
 
 /* TotalFinder Status Menu Item */
-"Check for Updates" = "Provjeri ažuriranja";
+"Check for Updates" = "Provjeri a\U017euriranja";
 "Uninstall TotalFinder" = "Deinstaliraj TotalFinder";
 "Restart Finder" = "Ponovno pokreni Finder";
 
 /* Reset to Defaults Alert Box */
-"Reset" = "Reset";
+"Reset" = "Poni\U0161ti";
 "Cancel" = "Prekid";
-"Do you really want reset to defaults?" = "Želite li zaista vratiti na početno?";
-"This will restore initial TotalFinder settings." = "Ovo će vratiti TotalFinder na početne postavke.";
+"Do you really want reset to defaults?" = "\U017delite li zaista vratiti na po\U010detno?";
+"This will restore initial TotalFinder settings." = "Ovo \U0107e vratiti TotalFinder na po\U010detne postavke";
 
 /* Unistall Alert Box */
 "Uninstall" = "Deinstaliraj";
-"Really want to uninstall TotalFinder?" = "Želite li zaista deinstalirati TotalFinder?";
-"This will launch an uninstall script which will remove TotalFinder from this computer and restore your original Finder behavior." = "Ovo će pokrenuti skriptu deinstalacije koja će ukloniti TotalFinder s ovog računala i vratiti izvorno ponašanje Findera.";
+"Really want to uninstall TotalFinder?" = "\U017delite li zaista deinstalirati TotalFinder?";
+"This will launch an uninstall script which will remove TotalFinder from this computer and restore your original Finder behavior." = "Ovo \U0107e pokrenuti skriptu deinstalacije koja \U0107e ukloniti TotalFinder s ovog ra\U010dunala i vratiti izvorno pona\U0161anje Findera.";
 
 /* MainMenu items */
 "TotalFinder" = "TotalFinder";
 "TotalFinder Preferences…" = "TotalFinder postavke…";
-"Visit Homepage…" = "Posjeti stranicu...";
+"Visit Homepage…" = "Posjeti stranicu…";
 
 /* registration */
 "Licensed to %@" = "Licencirano na %@";
 "Change License" = "Promijeni licencu";
-"Unregistered version in trial mode" = "Neregistrirana verzija u trial môdu";
+"Unregistered version in trial mode" = "Neregistrirana verzija u trial m\U00f4du";
 "Register" = "Registriraj";
 
 /* navigation bar */
@@ -41,12 +41,12 @@
 "Reset TotalFinder to defaults" = "Vrati TotalFinder na izvorne postavke";
 
 "Hide icon in Menu Bar" = "Sakrij ikonu u traci";
-"Keep original Dock icon" = "Zadrži izvornu ikonu u Docku";
+"Keep original Dock icon" = "Zadr\U017ei izvornu ikonu u Docku";
 
 /* about page */
-"Check Now" = "Check Now";
-"Automatically check the website for updates" = "Automatska provjera stranice ažuriranja";
-"Include pre-releases" = "Uključi pred-izdanja";
+"Check Now" = "Sada";
+"Automatically check the website for updates" = "Automatska provjera stranice a\U017euriranja";
+"Include pre-releases" = "Uklju\U010di pred-izdanja";
 "Participate in TotalFinder testing" = "Sudjeluj u testiranju TotalFinder-a";
 
 /* registration */
@@ -58,9 +58,23 @@
 "This TotalFinder copy is licensed to:" = "Ova kopija TotalFinder-a je licencirana na:";
 "Close" = "Zatvori";
 "Back" = "Natrag";
-"Invalid license code" = "Nevažeći kôd licence";
-"Please go back and try again." = "Molimo idite natrag i pokušajte ponovno.";
+"Invalid license code" = "Neva\U017ee\U0107i k\U00f4d licence";
+"Please go back and try again." = "Molimo idite natrag i poku\U0161ajte ponovno.";
 "To purchase a license for TotalFinder, please visit BinaryAge web store." = "Za kupnju licence TotalFindera molimo posjetite BinaryAge web-trgovinu.";
 "Thank you for using TotalFinder!" = "Zahvaljujemo na upotrebi!";
 "License Name" = "Ime licence";
-"License Key" = "Ključ licence";
+"License Key" = "Klju\U010d licence";
+
+
+/* shortcuts subsystem */
+"Click to record new shortcut" = "Klik za snimanje pseudonima";
+"Delete shortcut" = "Obri\U0161i pseudonim";
+"OK" = "U redu";
+"Record Shortcut" = "Snimi pseudonim";
+"Space" = "Razmak";
+"The key combination %@ cannot be used" = "Kombinacija tipki %@ ne mo\U017ee biti kori\U0161tena!";
+"This combination cannot be used because it is already used by a system-wide " = "Ova kombinacija tipki nemo\U017ee biti kori\U0161tena jer je zauzeta od strane sustava";
+"This shortcut cannot be used because it is already used by the menu item ‘%@’." = "Kombinacija tipki ne mo\U017ee biti kori\U0161tena jer je u upotrebi od strane stavke izbornika ‘%@’.";
+"Type New Shortcut" = "Utipkaj novi pseudonim";
+"Type Shortcut" = "Utipkaj pseudonim";
+"Use Old Shortcut" = "Upotrijebi predhodni pseudonim";

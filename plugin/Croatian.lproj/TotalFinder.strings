@@ -2,26 +2,21 @@
 "BASIC" = "OSNOVNO";
 "SYSTEM" = "SISTEM";
 "Menus" = "Izbornici";
-"Updates" = "A\U017euriranja";
+"Updates" = "Ažuriranja";
 "File Browser" = "Prikaz datoteka";
 "Dock" = "Dock";
-"Sidebar" = "Bo\U010dna traka";
+"Sidebar" = "Bočna traka";
 
 /* TotalFinder Status Menu Item */
-"Check for Updates" = "Provjeri a\U017euriranja";
+"Check for Updates" = "Provjeri ažuriranja";
 "Uninstall TotalFinder" = "Deinstaliraj TotalFinder";
 "Restart Finder" = "Ponovno pokreni Finder";
 
 /* Reset to Defaults Alert Box */
-"Reset" = "Poni\U0161ti";
+"Reset" = "Poništi";
 "Cancel" = "Prekid";
-"Do you really want reset to defaults?" = "\U017delite li zaista vratiti na po\U010detno?";
-"This will restore initial TotalFinder settings." = "Ovo \U0107e vratiti TotalFinder na po\U010detne postavke";
-
-/* Unistall Alert Box */
-"Uninstall" = "Deinstaliraj";
-"Really want to uninstall TotalFinder?" = "\U017delite li zaista deinstalirati TotalFinder?";
-"This will launch an uninstall script which will remove TotalFinder from this computer and restore your original Finder behavior." = "Ovo \U0107e pokrenuti skriptu deinstalacije koja \U0107e ukloniti TotalFinder s ovog ra\U010dunala i vratiti izvorno pona\U0161anje Findera.";
+"Do you really want reset to defaults?" = "Želite li zaista vratiti na početno?";
+"This will restore initial TotalFinder settings." = "Ovo će vratiti TotalFinder na početne postavke";
 
 /* MainMenu items */
 "TotalFinder" = "TotalFinder";
@@ -31,7 +26,7 @@
 /* registration */
 "Licensed to %@" = "Licencirano na %@";
 "Change License" = "Promijeni licencu";
-"Unregistered version in trial mode" = "Neregistrirana verzija u trial m\U00f4du";
+"Unregistered version in trial mode" = "Neregistrirana verzija u trial môdu";
 "Register" = "Registriraj";
 
 /* navigation bar */
@@ -41,12 +36,12 @@
 "Reset TotalFinder to defaults" = "Vrati TotalFinder na izvorne postavke";
 
 "Hide icon in Menu Bar" = "Sakrij ikonu u traci";
-"Keep original Dock icon" = "Zadr\U017ei izvornu ikonu u Docku";
+"Keep original Dock icon" = "Zadrži izvornu ikonu u Docku";
 
 /* about page */
 "Check Now" = "Sada";
-"Automatically check the website for updates" = "Automatska provjera stranice a\U017euriranja";
-"Include pre-releases" = "Uklju\U010di pred-izdanja";
+"Automatically check the website for updates" = "Automatska provjera stranice ažuriranja";
+"Include pre-releases" = "Uključi pred-izdanja";
 "Participate in TotalFinder testing" = "Sudjeluj u testiranju TotalFinder-a";
 
 /* registration */
@@ -58,23 +53,32 @@
 "This TotalFinder copy is licensed to:" = "Ova kopija TotalFinder-a je licencirana na:";
 "Close" = "Zatvori";
 "Back" = "Natrag";
-"Invalid license code" = "Neva\U017ee\U0107i k\U00f4d licence";
-"Please go back and try again." = "Molimo idite natrag i poku\U0161ajte ponovno.";
+"Invalid license code" = "Nevažeći ključ licence";
+"Please go back and try again." = "Molimo idite natrag i pokušajte ponovno.";
 "To purchase a license for TotalFinder, please visit BinaryAge web store." = "Za kupnju licence TotalFindera molimo posjetite BinaryAge web-trgovinu.";
 "Thank you for using TotalFinder!" = "Zahvaljujemo na upotrebi!";
 "License Name" = "Ime licence";
-"License Key" = "Klju\U010d licence";
+"License Key" = "Ključ licence";
 
 
 /* shortcuts subsystem */
 "Click to record new shortcut" = "Klik za snimanje pseudonima";
-"Delete shortcut" = "Obri\U0161i pseudonim";
+"Delete shortcut" = "Obriši pseudonim";
 "OK" = "U redu";
 "Record Shortcut" = "Snimi pseudonim";
 "Space" = "Razmak";
-"The key combination %@ cannot be used" = "Kombinacija tipki %@ ne mo\U017ee biti kori\U0161tena!";
-"This combination cannot be used because it is already used by a system-wide " = "Ova kombinacija tipki nemo\U017ee biti kori\U0161tena jer je zauzeta od strane sustava";
-"This shortcut cannot be used because it is already used by the menu item ‘%@’." = "Kombinacija tipki ne mo\U017ee biti kori\U0161tena jer je u upotrebi od strane stavke izbornika ‘%@’.";
+"The key combination %@ cannot be used" = "Kombinacija tipki %@ ne može biti korištena!";
+"This combination cannot be used because it is already used by a system-wide " = "Ova kombinacija tipki nemože biti korištena jer je zauzeta od strane sustava";
+"This shortcut cannot be used because it is already used by the menu item ‘%@’." = "Kombinacija tipki ne može biti korištena jer je u upotrebi od strane stavke izbornika ‘%@’.";
 "Type New Shortcut" = "Utipkaj novi pseudonim";
 "Type Shortcut" = "Utipkaj pseudonim";
 "Use Old Shortcut" = "Upotrijebi predhodni pseudonim";
+
+/* tabs section */
+"Disable tabs completely" = "Potpuno onemogući kartice";
+"Do you really want to disable tabs?" = "Želite li onemogućiti kartice?";
+"Do you really want to enable tabs?" = "Želite li omogućiti kartice?";
+"Tabs" = "Kartice";
+"This option will effectively disable the tabs module in TotalFinder. In effect the dual mode and visor functionality will be disabled as well. This may be desired under Mavericks - use native Finder tabs exclusively while keeping benefits of other TotalFinder features.\n\nFor this operation Finder has to be restarted!\nNote: Prior restarting please finish all Finder tasks in progress (like copying or moving files)." = "Ova opcija će učinkovito onemogućiti module kartica u TotalFinder-u. U stvari biti će onemogućena funkcionalnost dual môda i vizira. To može biti poželjno kod Mavericka - korištenje izvornih Finder kartica isključivo uz zadržavanje prednosti drugih TotalFinder mogućnosti\n\nZa ovu mogućnost Finder se mora ponovno pokrenuti\nNapomena: Prije ponovnog pokretanja molimo završite sve Finder zadatke koji su u tijeku (kao što je kopiranje ili premještanje datoteka).";
+"This option will effectively enable the tabs module in TotalFinder.\n\nFor this operation Finder has to be restarted.\nNote: Prior restarting please finish all Finder tasks in progress (like copying or moving files)." = "Ova opcija će učinkovito omogućiti module kartica in TotalFinder-u.\n\nZa ovu mogućnost Finder se mora ponovno pokrenuti\nNapomena: Prije ponovnog pokretanja molimo završite sve Finder zadatke koji su u tijeku (kao što je kopiranje ili premještanje datoteka).";
+"This will effectively disable tabs, dual mode and visor. Finder restart is needed." = "Ovo će učinkovito onemogućiti kartice, dual môd i vizir. Finder se mora ponovno pokrenuti.";
